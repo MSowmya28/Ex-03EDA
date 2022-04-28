@@ -120,3 +120,7 @@ np.heatmap(df.corr(),annot=True)
 ![output](./Ex.3.ds24.PNG)
 
 ![output](./Ex.3.ds25.PNG)
+
+# Result:
+     Thus the Exploratory Data Analysis (EDA) on the given data set is successfully 
+completed.
